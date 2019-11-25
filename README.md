@@ -1,2 +1,2 @@
 # adikou.github.io
-Source repo for hosting adikou
+Source repo for hosting adikou.github.io
